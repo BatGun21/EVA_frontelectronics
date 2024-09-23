@@ -1,0 +1,6 @@
+../Core/Src/ws2812_led.c:133:13:ws2812_timer_init	64	static
+../Core/Src/ws2812_led.c:170:13:ws2812_dma_start	24	static
+../Core/Src/ws2812_led.c:280:23:get_channel_byte	16	static
+../Core/Src/ws2812_led.c:288:13:fill_dma_buffer	64	static,ignoring_inline_asm
+../Core/Src/ws2812_led.c:350:6:ws2812_refresh	40	static
+../Core/Src/ws2812_led.c:469:6:ws2812_init	16	static

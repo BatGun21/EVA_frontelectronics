@@ -1,0 +1,3 @@
+../Core/Src/demo_main.c:36:6:make_pretty_colors	40	static
+../Core/Src/demo_main.c:54:6:make_light_patterns	32	static
+../Core/Src/demo_main.c:121:5:demo_main	152	static,ignoring_inline_asm
